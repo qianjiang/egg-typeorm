@@ -1,5 +1,5 @@
 {
-  "name": "egg-typeorm-js",
+  "name": "egg-typeorm-simple",
   "version": "1.0.1",
   "description": "",
   "eggPlugin": {
